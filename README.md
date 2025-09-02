@@ -1,2 +1,0 @@
-# prestige-sql
-prestige sql
